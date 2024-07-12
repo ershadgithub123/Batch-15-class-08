@@ -1,0 +1,57 @@
+body{
+
+
+}
+.div1{
+    background-color: bisque;
+    height: 80px;
+    width: 100%;
+}
+label.logo{
+    font-size: 30px;
+    font-weight: bolder;
+    color: blue;
+    line-height: 80px;
+    padding: 0 100px;
+}
+.div1 ul{
+    float: right;
+    margin-right: 40px;
+}
+.div1 ul li{
+    display: inline-block;
+    line-height: 80px;
+     margin: 0 20px;
+    
+}
+.div1 ul li a{
+    color: brown;
+    font-weight: bolder;
+    font-size: larger;
+    text-decoration: none;
+    font-style: italic;
+    border: 1px solid ;
+   border-radius: 3px;
+}
+.div1 a:hover{
+    color: blue;
+    
+}
+.div2{
+    height: 400px; width: 100%;
+}
+.div21{
+    height: 250px;
+    background-color: beige;
+    text-align: center;
+    color: rgb(127, 49, 49);
+    font-weight: bolder;
+    font-size: larger;
+    font-style: italic;
+}
+.div22{
+    height: 150px;
+    background-color: bisque;
+    text-align: center;
+    color: rgb(172, 80, 80);
+}
